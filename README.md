@@ -1,6 +1,8 @@
 # Final Project - Computer Graphics
 
 ## https://youtu.be/gB33iy0r1cI
+![ScreenShot_1](./sphere.ppm)
+
 
 This is the Final Project for CS 5130 Computer Graphics and I choose the topic ray tracing. Most of my project is based on the books Ray Tracing in One Weekend and and Ray Tracing: The Next Week by Peter Shirley. 
 http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
