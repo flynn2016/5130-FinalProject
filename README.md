@@ -2,6 +2,9 @@
 
 ## https://youtu.be/gB33iy0r1cI
 ![ScreenShot_1](./img4.png)
+![ScreenShot_1](./img1.png)
+![ScreenShot_1](./img2.png)
+![ScreenShot_1](./img3.png)
 
 
 This is the Final Project for CS 5130 Computer Graphics and I choose the topic ray tracing. Most of my project is based on the books Ray Tracing in One Weekend and and Ray Tracing: The Next Week by Peter Shirley. 
